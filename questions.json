@@ -1,0 +1,27 @@
+[
+    {
+        "question": "which is correct",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "which is correct way of refferening to a script for external source",
+        "choice1": "<script src='x.js'>",
+        "choice2": "<script src>",
+        "choice3": "<script = x.js>",
+        "choice4": "<script>",
+        "answer": 1
+    },
+    {
+        "question": "how do you write alert in alert box",
+        "choice1": "msgbox('hello')",
+        "choice2": "display('hello')",
+        "choice3": "will('hello')",
+        "choice4": "alert('hello')",
+        "answer": 4
+    }
+
+]
